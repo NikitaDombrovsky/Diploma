@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Диплом</string>
+    <string name="title">Название</string>
+    <string name="descriptionIsEmpty">Напишите текст</string>
+    <string name="titleIsEmpty">Напишите название</string>
+</resources>
